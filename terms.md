@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms of Service
 
-**Effective date:** May 12, 2026
+**Effective date:** June 4, 2026
 
 These Terms ("Terms") govern your use of the Selfletter mobile application ("Selfletter," "the app"). By installing or using Selfletter, you agree to these Terms. If you don't agree, please don't use the app.
 
@@ -25,7 +25,7 @@ We grant you a personal, non-exclusive, non-transferable, revocable license to i
 
 ## 3. Your content
 
-You own everything you write in Selfletter. The text of your letters is never read by us, used to train any model, or sent to any analytics service. Where the text physically lives depends on how you signed in:
+You own everything you write in Selfletter. The text of your letters is never read by us, used to train any model, or sent to any analytics service. Signing in is optional — you can use Selfletter as a guest, and an account (Sign in with Apple or email/password) only backs up and syncs your letters across your devices. Where the text physically lives depends on how you signed in:
 
 - **Sign in with Apple users**: your letters live on your device and in your private iCloud (CloudKit). We have no servers in the path between your device and your iCloud.
 - **Email/password users**: your letters live on the device you wrote them on and also sync through our authentication provider (Supabase) under a row-level-security policy that restricts access to your account only.
