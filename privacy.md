@@ -79,7 +79,7 @@ Because we never collect your data, there isn't anything for us to give you, cor
 
 If you'd like to sign out, Settings → Account → Sign Out clears the user identifier (or Supabase tokens) from your device's Keychain.
 
-To fully delete an email/password account and every letter stored on our server, tap **Settings → Account → Delete account**. The deletion is immediate and irreversible: your Supabase account is removed and every letter row is cascade-deleted in the same transaction. Local letters on the device are wiped at the same time. If you prefer to do it by email, write to selfletter.support@gmail.com and we will delete it within 30 days.
+To fully delete an email/password account and every letter stored on our server, tap **Settings → Account → Delete account**. The deletion is immediate and irreversible: your Supabase account is removed and every letter row is cascade-deleted in the same transaction. Local letters on the device are wiped at the same time. If you prefer to do it by email, write to selfletterapp@gmail.com and we will delete it within 30 days.
 
 ## Changes to this policy
 
@@ -87,7 +87,7 @@ If we change anything material, we'll update the effective date at the top and s
 
 ## Contact
 
-Questions or concerns: selfletter.support@gmail.com
+Questions or concerns: selfletterapp@gmail.com
 
 ---
 

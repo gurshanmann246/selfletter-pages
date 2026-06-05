@@ -12,7 +12,7 @@ These Terms ("Terms") govern your use of the Selfletter mobile application ("Sel
 
 ## 1. Who we are
 
-Selfletter is built and operated by Gurshan Mann ("we," "us"), based in California, United States. You can reach us at selfletter.support@gmail.com.
+Selfletter is built and operated by Gurshan Mann ("we," "us"), based in California, United States. You can reach us at selfletterapp@gmail.com.
 
 ## 2. License
 
@@ -88,4 +88,4 @@ We may update these Terms from time to time. If a change is material, we'll upda
 
 ## 12. Contact
 
-Questions or concerns: selfletter.support@gmail.com
+Questions or concerns: selfletterapp@gmail.com
