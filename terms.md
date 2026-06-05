@@ -37,8 +37,7 @@ See our [Privacy Policy]({{ "/privacy/" | relative_url }}) for the full breakdow
 Selfletter is free to download. Some features require a paid subscription or a one-time lifetime purchase ("Premium"). Premium is sold through Apple's App Store using your Apple ID.
 
 **Subscriptions** (Monthly or Yearly):
-- Each subscription begins with a 7-day free trial, available once per Apple ID per subscription group.
-- After the trial, the subscription auto-renews at the displayed price unless you cancel at least 24 hours before the end of the current period.
+- The subscription auto-renews at the displayed price unless you cancel at least 24 hours before the end of the current period.
 - You can manage or cancel your subscription anytime in iOS Settings → Apple ID → Subscriptions.
 - Apple, not Selfletter, processes all payments. We never see your payment details.
 
@@ -50,7 +49,7 @@ Prices may change in the future. Existing subscribers will be notified of price 
 
 ## 5. Free tier limits
 
-Free users can write tonight's letter, read last night's letter, and see the past 7 days of letters in the calendar. There is a 100-word combined limit per night's letter on the free tier. Premium removes these limits and unlocks additional features.
+Free users can write tonight's letter, read last night's letter, and see the past 7 days of letters in the calendar. Premium unlocks the full archive (year heatmap, month navigation, and backfilling any past day), search across all letters, paper warmth choices, time capsules, and the premium open-timer lock on tomorrow's letter.
 
 ## 6. Acceptable use
 

@@ -45,7 +45,7 @@ We do not store your password. Supabase stores only a salted hash of it.
 Where your letters are stored depends on how you signed in:
 
 1. **On your device** in every case — Apple's SwiftData / SQLite local database holds the canonical copy you read and write.
-2. **If you signed in with Apple**: your letters also sync through **your private iCloud CloudKit container** (`iCloud.app.selfletter`). The sync is end-to-end between Apple's servers and your devices. We have no servers in this path and cannot access your iCloud data — only you and Apple can. Apple's handling is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+2. **If you signed in with Apple**: your letters also sync through **your private iCloud CloudKit container** (`iCloud.com.selfletter.app`). The sync is end-to-end between Apple's servers and your devices. We have no servers in this path and cannot access your iCloud data — only you and Apple can. Apple's handling is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 3. **If you signed in with email and password**: your letters also sync through **our authentication provider (Supabase)** to a Postgres database. Access to the rows of that database is restricted to your own account by a row-level-security policy — no other user, and no human at our end in normal operation, can read them. We do not run a content-moderation pipeline, search index, or anything else that requires reading the text. You can permanently delete every row from our server at any time via **Settings → Account → Delete account** (see "Your rights" below).
 
 ## Our authentication provider
@@ -72,10 +72,10 @@ Selfletter is not directed at children under 13 and we do not knowingly collect 
 
 ## Your rights
 
-Because we never collect your data, there isn't anything for us to give you, correct, or delete on our end. To remove your letters:
+Because we collect so little, there isn't much for us to give you, correct, or delete on our end. For email/password users, your letters are stored by our authentication provider (Supabase) under a row-level-security policy that restricts access to your account only, and you can delete every row at any time (see below). To remove your letters:
 
 - **Delete the app** to remove all on-device data.
-- **Manage iCloud data** through iOS Settings → Apple ID → iCloud → Manage Storage → Selfletter.
+- **Manage iCloud data** (Apple sign-in only) through iOS Settings → Apple ID → iCloud → Manage Storage → Selfletter.
 
 If you'd like to sign out, Settings → Account → Sign Out clears the user identifier (or Supabase tokens) from your device's Keychain.
 
