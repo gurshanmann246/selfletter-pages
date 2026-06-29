@@ -6,14 +6,14 @@ permalink: /privacy/
 
 # Privacy Policy
 
-**Effective date:** June 4, 2026
+**Effective date:** June 29, 2026
 
 Selfletter is a journal you keep with yourself. We built it so that the things you write are yours, full stop. This policy explains what we do — and more importantly what we don't do — with your information.
 
 ## The short version
 
 - We never read what you write. Your letters live on your device and (optionally) in your private iCloud, or on our authentication provider's database under a row-level-security policy that restricts access to your own account.
-- We do not run analytics, do not embed third-party tracking SDKs, do not show ads, and do not use your letter text to train any AI model.
+- We don't show ads inside the app, we don't run third-party usage analytics, and we don't use your letter text to train any AI model. *(If you came from one of our own App Store ads, Apple tells us which ad worked — never who you are or what you write. See below.)*
 - The only thing we know about you is how you signed in: an opaque Apple user identifier, or the email address you used to create an email/password account.
 
 ## What we collect
@@ -32,13 +32,17 @@ We do not collect your Apple email address, even when Apple offers to share it.
 
 We do not store your password. Supabase stores only a salted hash of it.
 
+**If you installed Selfletter after tapping one of our App Store ads**, Apple's AdServices framework tells us:
+
+- **Which ad led you here** — the ad campaign, ad group, and keyword tied to your tap (never who you are or what you write). We receive this through RevenueCat, our subscription provider, and use it only to measure how well our own App Store advertising performs. It uses no advertising identifier (IDFA), requires no App Tracking Transparency permission, and never tracks you across other apps or websites.
+
 ## What we don't collect
 
 - We do not analyze, read, or train any AI model on the text of your letters.
 - We do not collect your IP address, device ID, advertising identifier, precise location, or usage analytics.
 - We do not use cookies or tracking pixels.
-- We do not embed any third-party analytics, advertising, or attribution SDKs.
-- We do not share, sell, or rent any information about you to anyone.
+- Apart from RevenueCat — which manages subscriptions and, for people who arrive from our App Store ads, measures which ad led to the install (described above) — we embed no third-party analytics, advertising, or attribution SDKs.
+- We do not sell or rent your information, and we don't share it with anyone except the service providers that run Selfletter on our behalf (Apple, Supabase, and RevenueCat), as described above.
 - We do not track you across other apps or websites — App Tracking Transparency is not applicable to Selfletter.
 
 ## Where your letters live
