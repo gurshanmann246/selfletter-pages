@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-**Effective date:** June 29, 2026
+**Effective date:** July 2, 2026
 
 Selfletter is a journal you keep with yourself. We built it so that the things you write are yours, full stop. This policy explains what we do — and more importantly what we don't do — with your information.
 
@@ -39,7 +39,7 @@ We do not store your password. Supabase stores only a salted hash of it.
 ## What we don't collect
 
 - We do not analyze, read, or train any AI model on the text of your letters.
-- We do not collect your IP address, device ID, advertising identifier, precise location, or usage analytics.
+- We do not collect your IP address, device ID, advertising identifier, or precise location. We do record a small set of anonymous, first-party usage events (for example, "saw the upgrade screen"), tied to a random identifier — never your name, your email, or anything you write — so we can see where the app confuses people and fix it. These events go to our own database (Supabase, listed below) and are never shared or sold.
 - We do not use cookies or tracking pixels.
 - Apart from RevenueCat — which manages subscriptions and, for people who arrive from our App Store ads, measures which ad led to the install (described above) — we embed no third-party analytics, advertising, or attribution SDKs.
 - We do not sell or rent your information, and we don't share it with anyone except the service providers that run Selfletter on our behalf (Apple, Supabase, and RevenueCat), as described above.
