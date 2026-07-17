@@ -34,16 +34,12 @@ See our [Privacy Policy]({{ "/privacy/" | relative_url }}) for the full breakdow
 
 ## 4. Subscriptions and purchases
 
-Selfletter is free to download. Some features require a paid subscription or a one-time lifetime purchase ("Premium"). Premium is sold through Apple's App Store using your Apple ID.
+Selfletter is free to download. Some features require a paid subscription ("Premium"). Premium is sold through Apple's App Store using your Apple ID.
 
 **Subscriptions** (Monthly or Yearly):
 - The subscription auto-renews at the displayed price unless you cancel at least 24 hours before the end of the current period.
 - You can manage or cancel your subscription anytime in iOS Settings → Apple ID → Subscriptions.
 - Apple, not Selfletter, processes all payments. We never see your payment details.
-
-**Lifetime purchase**:
-- A one-time, non-refundable purchase that grants Premium access for the lifetime of the Selfletter app on your Apple ID.
-- Refunds, if any, are governed by Apple's refund policy.
 
 Prices may change in the future. Existing subscribers will be notified of price increases per Apple's policy and may cancel before the change takes effect.
 

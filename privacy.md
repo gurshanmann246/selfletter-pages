@@ -74,7 +74,7 @@ We do not send your letter text to any other third party.
 
 ## Subscriptions and purchases
 
-Subscriptions and the lifetime upgrade are processed by Apple through StoreKit. We receive only the entitlement state from Apple (whether you have an active subscription, yes or no). We do not receive your name, billing address, payment method, or transaction history. Apple's handling of payment information is governed by Apple's privacy and payments policies.
+Subscriptions and purchases are processed by Apple through StoreKit. We receive only the entitlement state from Apple (whether you have an active subscription, yes or no). We do not receive your name, billing address, payment method, or transaction history. Apple's handling of payment information is governed by Apple's privacy and payments policies.
 
 ## Notifications
 
